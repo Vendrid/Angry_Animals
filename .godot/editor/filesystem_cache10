@@ -1,7 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1753482219
-export_presets.cfg::TextFile/TextFile::-1::1753482219::0::1::::<><><>0<>0<><>::
+::res://::1753483710
+export_presets.cfg::TextFile/TextFile::-1::1753483710::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D/CompressedTexture2D::388440399087404043::1678608103::1752949032::1::::<><><>0<>0<>c0119ed906d25206859dac3b05843fe6<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Angry_Animals/::1753482513
+README.md::TextFile::-1::1753482737::0::1::::<><><>0<>0<><>::
 ::res://assets/::1735319626
 ::res://assets/audio/::1752949032
 birdsong.wav::AudioStreamWAV/AudioStreamWAV::53731036414500520::1675844810::1752949032::1::::<><><>0<>0<>6240fb05d08f720e2578b0c85c0be3ee<>res://.godot/imported/birdsong.wav-5ff53f3a4c38db44019636d734ae8f52.sample::
@@ -30,10 +32,10 @@ colored_castle.png::CompressedTexture2D/CompressedTexture2D::42822223087331703::
 panel_beige.png::CompressedTexture2D/CompressedTexture2D::8005502920631303024::1567899206::1752949032::1::::<><><>0<>0<>35a90c0b5190b33b00be5bc55084eaca<>res://.godot/imported/panel_beige.png-0c2561c71b5e775174913c731a813cc9.ctex::
 ::res://Autoloads/::1752949032
 signal_manager.gd::GDScript/GDScript::6313526067955737511::1735323599::0::1::::<>Node<><>0<>0<><>::
-::res://Git_Repo/::1753482219
-index.apple-touch-icon.png::CompressedTexture2D::6449563023074308223::1753482219::1753482228::1::::<><><>0<>0<>4a177ca552001450e525fda663aea8b7<>res://.godot/imported/index.apple-touch-icon.png-c926e3d6283e85463d7448755917e9e5.ctex::
-index.icon.png::CompressedTexture2D::2304158379461087980::1753482219::1753482228::1::::<><><>0<>0<>a17452fec5254322149e067c45031836<>res://.godot/imported/index.icon.png-f2c55ba1e9b963c61ef244bf94f0f91e.ctex::
-index.png::CompressedTexture2D::5432805237490274959::1753482219::1753482228::1::::<><><>0<>0<>702ece3af8e694e6b84d9034d011a577<>res://.godot/imported/index.png-a3c1fce7af24f119f1091761d2e38798.ctex::
+::res://Git_Repo/::1753483710
+Angry_Animals.apple-touch-icon.png::CompressedTexture2D::6067275890741814998::1753483710::1753483798::1::::<><><>0<>0<>8f5f60d3557f4ecc37efdbae102543bb<>res://.godot/imported/Angry_Animals.apple-touch-icon.png-a4f627866db79483eb33b2a60d28b64b.ctex::
+Angry_Animals.icon.png::CompressedTexture2D::5038846401054700825::1753483710::1753483798::1::::<><><>0<>0<>515326eefb045a08e42bc1df032953fe<>res://.godot/imported/Angry_Animals.icon.png-4aaa8c4de618b9bf83c909227a2fb043.ctex::
+Angry_Animals.png::CompressedTexture2D::309594999053939795::1753483710::1753483799::1::::<><><>0<>0<>adeb7eea2845357cbdcbe6ce99fcbfa1<>res://.godot/imported/Angry_Animals.png-423eb035b292eb54d4a4b02495e9b90a.ctex::
 ::res://scenes/::1753384975
 ::res://scenes/Animal/::1753479940
 animal.gd::GDScript/GDScript::2236087362277086629::1753386754::0::1::::<>RigidBody2D<><>0<>0<><>::
