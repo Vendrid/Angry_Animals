@@ -21,4 +21,4 @@ z_index = 1
 position = Vector2(8, 2)
 
 [node name="Cup" parent="." instance=ExtResource("4_v753x")]
-position = Vector2(588, 193)
+position = Vector2(226, 319)
