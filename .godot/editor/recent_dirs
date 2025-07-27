@@ -1,4 +1,10 @@
 C:/Users/timmu/OneDrive/Documents/Gadot Projects/angry_animals/Git_Repo
-res://scenes/Cup
+res://assets
+res://scenes/GameUI
+res://scenes/Scorer
 res://Autoloads
+res://scenes/Level
+res://LevelButton
+res://Main
+res://scenes/Cup
 res://assets/scene
